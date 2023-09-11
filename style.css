@@ -1,0 +1,19 @@
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section > h1, p {
+    text-align: center;
+}
